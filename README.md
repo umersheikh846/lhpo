@@ -27,6 +27,15 @@ sudo ln -s /usr/bin/xmlstartlet /usr/local/bin/xml
 #or add this line to your .bashrc
 alias xml='/usr/bin/xmlstarlet'
 ```
+### Installation
+```
+#to install xmlstartlet
+sudo apt update
+sudo apt install xmlstarlet
+
+#to install python3-joblib
+sudo apt install python3-joblib
+```
 
 ### Usage :
 Create a rules.xml file in a dir and run
